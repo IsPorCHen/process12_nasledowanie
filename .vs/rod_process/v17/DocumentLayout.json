@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ipch\\source\\repos\\rod_process\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74DCF6A9-EC86-4F7E-BAC5-C27889FAEA0A}|doch_process\\doch_process.vcxproj|C:\\Users\\ipch\\source\\repos\\rod_process\\doch_process\\doch_process.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74DCF6A9-EC86-4F7E-BAC5-C27889FAEA0A}|doch_process\\doch_process.vcxproj|solutionrelative:doch_process\\doch_process.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAB0DC0-DFC9-44DF-87B3-57CD9B9C98F4}|rod_process\\rod_process.vcxproj|C:\\Users\\ipch\\source\\repos\\rod_process\\rod_process\\rod_process.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BFAB0DC0-DFC9-44DF-87B3-57CD9B9C98F4}|rod_process\\rod_process.vcxproj|solutionrelative:rod_process\\rod_process.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "doch_process.cpp",
+              "DocumentMoniker": "C:\\Users\\ipch\\source\\repos\\rod_process\\doch_process\\doch_process.cpp",
+              "RelativeDocumentMoniker": "doch_process\\doch_process.cpp",
+              "ToolTip": "C:\\Users\\ipch\\source\\repos\\rod_process\\doch_process\\doch_process.cpp",
+              "RelativeToolTip": "doch_process\\doch_process.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-13T17:45:06.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "rod_process.cpp",
+              "DocumentMoniker": "C:\\Users\\ipch\\source\\repos\\rod_process\\rod_process\\rod_process.cpp",
+              "RelativeDocumentMoniker": "rod_process\\rod_process.cpp",
+              "ToolTip": "C:\\Users\\ipch\\source\\repos\\rod_process\\rod_process\\rod_process.cpp",
+              "RelativeToolTip": "rod_process\\rod_process.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-13T17:41:02.786Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
