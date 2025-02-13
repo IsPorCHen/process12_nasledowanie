@@ -6,7 +6,7 @@ int main() {
     SECURITY_ATTRIBUTES sa;
     sa.nLength = sizeof(SECURITY_ATTRIBUTES);
     sa.lpSecurityDescriptor = NULL;
-    sa.bInheritHandle = TRUE; // Дескриптор наследуемый
+    sa.bInheritHandle = TRUE;
 
     wchar_t fullPath[MAX_PATH];
     GetFullPathName(L"test.txt", MAX_PATH, fullPath, NULL);
