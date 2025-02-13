@@ -20,13 +20,12 @@ int wmain(int argc, wchar_t* argv[]) {
         return 1;
     }
 
-    // Читаем файл
-    char buffer[256] = { 0 };  // Заполняем буфер нулями
+    char buffer[256] = { 0 };
     DWORD read = 0;
     BOOL success = ReadFile(hFile, buffer, sizeof(buffer) - 1, &read, NULL);
 
     if (success && read > 0) {
-        buffer[read] = '\0';  // Гарантируем корректное завершение строки
+        buffer[read] = '\0';
         std::wcout << L"Содержимое файла: " << buffer << L"\n";
     }
     else {
